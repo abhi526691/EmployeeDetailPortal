@@ -51,7 +51,7 @@ After that just install the local dependencies, run migrations, and start the se
 
 {% endif %}
 
-# CRUD-AND-AUTHENTICATION
+# Employee Detail Portal
 
 # Getting Started
 
