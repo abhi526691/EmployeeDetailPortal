@@ -5,6 +5,8 @@ This is a simple website made in django. To kickstart your journey in django you
 
 ![Default Home View](screenshots/index.png "Title")
 
+![Default Search View](screenshots/search.png "Title")
+
 ### Main features
 
 * User Friendly Dashboard
