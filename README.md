@@ -3,8 +3,10 @@
 
 This is a simple website made in django. To kickstart your journey in django you can go for this project in your learning phase of django. This project contains Employee Detail Portal with search feature enabled where admin will be allowed to search employee on the basis of their name
 
+## Home Page
 ![Default Home View](screenshots/index.png "Title")
 
+## Search Page
 ![Default Search View](screenshots/search.png "Title")
 
 ### Main features
@@ -46,7 +48,7 @@ And then:
     $ python3 -m django startproject \
       --template=https://github.com/abhi526691/EmployeeDetailPortal \
       --extension=py,md \
-      <CRUD-AND-AUTHENTICATION>
+      <Employee Detail Portal>
       
       
 After that just install the local dependencies, run migrations, and start the server.
@@ -60,7 +62,7 @@ After that just install the local dependencies, run migrations, and start the se
 First clone the repository from Github and switch to the new directory:
 
     $ git clone git@https://github.com/abhi526691/EmployeeDetailPortal{{ Employee Detail Portal }}.git
-    $ cd {{ ScheduleMaker }}
+    $ cd {{ Employee-detail-Portal-With-Search-Enabled }}
     
 Activate the virtualenv for your project.
     
